@@ -1,0 +1,27 @@
+body {
+    background-color: #e6e6e6 !important;
+}
+input::placeholder{
+  color:#dbdbdb !important;
+  font-style: italic;
+  font-size:0.9rem;
+}
+h1 {
+    font-size: 1.2rem !important;
+    font-weight: 100 !important;
+}
+
+.mt2 {margin-top: 2%;}
+.mt4 {margin-top: 4%;}
+.mt6 {margin-top: 6%;}
+.pt2 {padding-top: 2%;}
+.pt4 {padding-top: 4%;}
+.pt6 {padding-top: 6%;}
+.disabled {display: none;}
+.available {display: block;}
+
+.warning {border: 1px solid #E91E63 !important;color: #E91E63 !important;}
+.success {border: 1px solid #8BC34A !important;color: #8BC34A !important;}
+.btn {color: #cacaca;}
+
+.saludo {text-align: center;margin: 1% 0;border-bottom: 1px solid #dbdbdb;}
